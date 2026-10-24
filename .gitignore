@@ -1,0 +1,11 @@
+.env
+config.yaml
+.venv/
+data/
+workspaces/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+.env.*
+!.env.example
